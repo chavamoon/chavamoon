@@ -1,6 +1,6 @@
 Hello, I’m @chavamoon
 - I'm currently interested in data science and artificial intelligence projects.
-- I’m currently learning data sciende and artificial intelligence algorithms.
+- I’m currently learning data science and artificial intelligence algorithms.
 - If you are interested we can collaborate together.
 - 📫 How to reach me, just send an email to salvadorlunahdz@hotmail.com.
 Greetings :)
